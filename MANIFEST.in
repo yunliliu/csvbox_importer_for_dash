@@ -1,0 +1,11 @@
+include csvbox_importer_for_dash/csvbox_importer_for_dash.min.js
+include csvbox_importer_for_dash/csvbox_importer_for_dash.min.js.map
+include csvbox_importer_for_dash/async-*.js
+include csvbox_importer_for_dash/async-*.js.map
+include csvbox_importer_for_dash/*-shared.js
+include csvbox_importer_for_dash/*-shared.js.map
+include csvbox_importer_for_dash/metadata.json
+include csvbox_importer_for_dash/package-info.json
+include README.md
+include LICENSE
+include package.json
